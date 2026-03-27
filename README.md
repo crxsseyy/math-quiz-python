@@ -14,5 +14,5 @@ My first educational Python project. A math quiz with error handling and scoring
 
 ## Как запустить
 Просто скачайте файл `main.py` и запустите его в любой среде Python.
-(https://attentive-studious-factors--vladazaika116.replit.app)
+
 
